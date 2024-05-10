@@ -21,3 +21,12 @@ export default function Counter() {
         </Fragment>
     )
 }
+
+/* 
+make useRef
+function useRef(initialValue){
+    const [ref,unUsed]=useState({current:initialValue});
+    return ref;
+}
+
+*/
