@@ -1,10 +1,10 @@
-import {Fragment} from "react"
-import Counter from "./Module-4.1/Counter"
+import { Fragment } from "react"
+import ChangeDomElement from "./Module-4.2/ChangeDomElement"
 
-export default function App(){
-  return(
+export default function App() {
+  return (
     <Fragment>
-      <Counter/>
+      <ChangeDomElement />
     </Fragment>
   )
 }
