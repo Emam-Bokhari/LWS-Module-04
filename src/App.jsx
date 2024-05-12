@@ -1,10 +1,10 @@
 import { Fragment } from "react"
-import InputFocus from "./Module-4.2/InputFocus"
+import MyInput from "./Module-4.3/MyInput"
 
 export default function App() {
   return (
     <Fragment>
-      <InputFocus />
+      <MyInput />
     </Fragment>
   )
 }
