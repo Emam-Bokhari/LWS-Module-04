@@ -1,10 +1,10 @@
 import { Fragment } from "react"
-import MyInput from "./Module-4.3/MyInput"
+import ExampleOne from "./Module-4.12/ExampleOne"
 
 export default function App() {
   return (
     <Fragment>
-      <MyInput />
+      <ExampleOne />
     </Fragment>
   )
 }
